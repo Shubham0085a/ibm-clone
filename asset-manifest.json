@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ibm-clone/static/css/main.4927b834.css",
+    "main.js": "/ibm-clone/static/js/main.e680d0e5.js",
+    "static/media/image4.png": "/ibm-clone/static/media/image4.13d6e89c3edb8d5998b5.png",
+    "static/media/image3.png": "/ibm-clone/static/media/image3.df5edda15a84516abf98.png",
+    "static/media/image2.png": "/ibm-clone/static/media/image2.e35268dcf1bebd7effaa.png",
+    "static/media/image1.png": "/ibm-clone/static/media/image1.2377f779ed321adde233.png",
+    "index.html": "/ibm-clone/index.html",
+    "main.4927b834.css.map": "/ibm-clone/static/css/main.4927b834.css.map",
+    "main.e680d0e5.js.map": "/ibm-clone/static/js/main.e680d0e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4927b834.css",
+    "static/js/main.e680d0e5.js"
+  ]
+}
